@@ -48,6 +48,10 @@ Asu-roomsense/
 
 This frame was captured when the number of people in the room exceeded a preset zone capacity threshold. The system displays a red alert message and continues logging data for audit or response purposes.
 
+| Empty Room | Single Person | Two People | Three People |
+|------------|---------------|------------|---------------|
+| Empty room_frame_100 (1).png | ![1](single_frame_50.png) | ![2](2%20person%20frame_0.png) | ![3](3%20person%20frame_0.png) |
+
 
 ---
 
